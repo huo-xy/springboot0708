@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/33537cf3-8949-4a89-a676-ceab7578bd62/console.sql" value="33537cf3-8949-4a89-a676-ceab7578bd62" />
     <file url="file://$PROJECT_DIR$/spring-boot-stater-druid-demo/src/main/java/com/huoxinyu/controller/DeptController.java" value="33537cf3-8949-4a89-a676-ceab7578bd62" />
   </component>
 </project>
