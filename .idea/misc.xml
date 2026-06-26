@@ -7,6 +7,9 @@
         <option value="$PROJECT_DIR$/spring-boot-start-demo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-start-springmvc-demo/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-stater-druid-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-aop-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis-plus-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/club_mangement/pom.xml" />
       </list>
     </option>
   </component>

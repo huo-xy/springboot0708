@@ -9,12 +9,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-start-springmvc-demo" />
         <module name="spring-boot-stater-druid-demo" />
+        <module name="spring-boot-mybatis-plus-demo" />
         <module name="spring-boot-start-demo" />
+        <module name="spring-boot-aop-demo" />
+        <module name="club_management" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="club_management" options="-parameters" />
+      <module name="spring-boot-aop-demo" options="-parameters" />
+      <module name="spring-boot-mybatis-plus-demo" options="-parameters" />
       <module name="spring-boot-start-demo" options="-parameters" />
       <module name="spring-boot-start-springmvc-demo" options="-parameters" />
       <module name="spring-boot-stater-druid-demo" options="-parameters" />

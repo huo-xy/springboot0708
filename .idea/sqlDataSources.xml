@@ -14,6 +14,17 @@
           </option>
           <option name="outLayout" value="File per object by schema.groovy" />
         </State>
+        <State>
+          <option name="id" value="0c47d387-97b1-415a-983b-70a9d2cb32c2" />
+          <option name="name" value="generator_db" />
+          <option name="dbmsName" value="MYSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/../../ChatRecord/xwechat_files/wxid_dj72d0v8amsu21_b849/msg/file/2026-06/generator_db.sql" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
       </list>
     </option>
   </component>
