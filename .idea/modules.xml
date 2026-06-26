@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/club-management/club-management.iml" filepath="$PROJECT_DIR$/club-management/club-management.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot0708.iml" filepath="$PROJECT_DIR$/springboot0708.iml" />
     </modules>
   </component>
