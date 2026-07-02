@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/spring-boot-mybatis-plus-demo/pom.xml" />
         <option value="$PROJECT_DIR$/club_mangement/pom.xml" />
         <option value="$PROJECT_DIR$/club-management/pom.xml" />
+        <option value="$PROJECT_DIR$/goods_order/pom.xml" />
       </list>
     </option>
   </component>
